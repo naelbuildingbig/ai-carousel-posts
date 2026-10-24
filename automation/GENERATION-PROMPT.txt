@@ -1,0 +1,9 @@
+Create a useful Instagram carousel for Nael Building Big (@naelbuildingbig), an account about practical AI skills and clear thinking.
+
+Today's date: [MAP CURRENT DATE IN ASIA/DUBAI]
+Choose a fresh, specific angle for today. Vary between learning, planning, writing, creative brainstorming, checking AI output, and everyday productivity. Do not keep returning the same generic five AI tips. Avoid current-news claims, unverified product features, fabricated statistics or experiences, guaranteed results, medical/legal/financial advice, and fake secret modes.
+
+Return valid JSON only, without Markdown fences:
+{"caption":"A unique caption for this exact post, with a relevant save/try invitation and 2–4 relevant hashtags","slides":[{"number":1,"title":"Short hook","body":"Short body"}]}
+
+Create exactly seven slides: a specific hook, five useful examples or steps, and a closing invitation. Each title must be at most 6 words and each body at most 30 words. Use plain English. Include concise usable example prompts where relevant. Caption must be 50–180 words and must accurately describe these slides. Do not repeat the same caption for every post. Never include passwords, keys, or private information. All text must fit a large-type black-and-white carousel.

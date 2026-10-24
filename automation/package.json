@@ -1,0 +1,1 @@
+{"name":"nael-carousel-renderer","private":true,"type":"module","scripts":{"validate":"node --test validation.test.mjs"},"dependencies":{"playwright":"1.56.1"}}
