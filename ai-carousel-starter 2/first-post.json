@@ -3,38 +3,38 @@
   "slides": [
     {
       "number": 1,
-      "title": "Give AI a better brief",
-      "body": "Five practical prompts for everyday tasks. Replace vague requests with clear instructions you can actually use."
+      "title": "Stop giving AI vague instructions.",
+      "body": "Better answers start with a better brief.\n\nHere are 5 practical prompts you can copy and try today."
     },
     {
       "number": 2,
-      "title": "Turn a messy list into a plan",
-      "body": "Prompt: Organise these tasks by deadline and importance. Suggest a realistic order and flag anything that needs more information. Tasks: [paste your list]."
+      "title": "1. Turn a messy list into a plan",
+      "body": "\u201cOrganise these tasks by deadline and importance. Suggest a realistic order and flag anything that needs more information. Tasks: [paste your list].\u201d"
     },
     {
       "number": 3,
-      "title": "Understand something unfamiliar",
-      "body": "Prompt: Explain [topic] in plain English. Give one everyday example, then ask me three questions to check my understanding. Flag anything uncertain."
+      "title": "2. Understand something unfamiliar",
+      "body": "\u201cExplain [topic] in plain English. Give one everyday example, then ask me three questions to check my understanding. Flag anything uncertain.\u201d"
     },
     {
       "number": 4,
-      "title": "Make your writing clearer",
-      "body": "Prompt: Edit this draft for clarity while keeping my tone. Do not add facts. Show the revised version and explain your three most useful changes. Draft: [paste]."
+      "title": "3. Make your writing clearer",
+      "body": "\u201cEdit this draft for clarity while keeping my tone. Do not add facts. Show the revised version and explain your three most useful changes. Draft: [paste].\u201d"
     },
     {
       "number": 5,
-      "title": "Compare your options",
-      "body": "Prompt: Compare [option A] and [option B] against these criteria: [list]. Use only the information below. Mark missing details instead of guessing. Information: [paste]."
+      "title": "4. Compare your options",
+      "body": "\u201cCompare [option A] and [option B] against these criteria: [list]. Use only the information below. Mark missing details instead of guessing. Information: [paste].\u201d"
     },
     {
       "number": 6,
-      "title": "Practise a conversation",
-      "body": "Prompt: Role-play [situation] with me. Ask one question at a time. After five exchanges, give specific feedback on how clearly I communicated."
+      "title": "5. Practise a conversation",
+      "body": "\u201cRole-play [situation] with me. Ask one question at a time. After five exchanges, give specific feedback on how clearly I communicated.\u201d"
     },
     {
       "number": 7,
       "title": "Try one. Check the result.",
-      "body": "Choose a prompt, add your context and refine the answer. Check important facts and leave private information out. Save this carousel for your next AI session."
+      "body": "Pick one prompt.\nAdd your own context.\nCheck the answer.\n\nSave these prompts for the next time you use AI."
     }
   ]
 }
