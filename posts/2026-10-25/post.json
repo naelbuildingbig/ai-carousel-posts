@@ -1,0 +1,40 @@
+{
+  "caption": "Blank page? Turn it into a plan with a precise AI prompt. What will you try first today? #AIHomework #StudyTips #StudentLife #NaelBuildingBig",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Hook: Unfinished Homework",
+      "body": "You open the sheet, blank page stares back, and the timer ticks. Classic block."
+    },
+    {
+      "number": 2,
+      "title": "Recognition: The Block",
+      "body": "You copy-paste a prompt with no details, hoping the AI fills in."
+    },
+    {
+      "number": 3,
+      "title": "Bad Example: Weak Prompt",
+      "body": "Bad: 'Explain this.' for my homework, nothing else."
+    },
+    {
+      "number": 4,
+      "title": "Better Example: Copyable Prompt",
+      "body": "Better: 'Outline a 1-page biology essay for Grade 11: 3 main ideas, simple language, bullet list, and a short conclusion.'"
+    },
+    {
+      "number": 5,
+      "title": "Payoff: Clear Output",
+      "body": "Example: 1) Cell cycle basics. 2) Mitosis stages simplified. 3) Quick conclusion with examples."
+    },
+    {
+      "number": 6,
+      "title": "Action: One Quick Task",
+      "body": "Copy the Better Prompt, run AI, check it lists 3 clear ideas in simple language; adjust if needed."
+    },
+    {
+      "number": 7,
+      "title": "Close: Takeaway and Share",
+      "body": "Sharper prompts save minutes and keep your grades steady. Save this template, share with friends who stall on homework."
+    }
+  ]
+}
