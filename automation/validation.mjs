@@ -8,31 +8,42 @@ export function validatePost(post) {
     post.caption.length > 2200
   ) throw Error("Caption must contain 1–2200 characters");
 
-  if (
-    !Array.isArray(post.slides) ||
-    post.slides.length < 2 ||
-    post.slides.length > 10
-  ) throw Error("Use 2–10 slides");
+  if (!Array.isArray(post.slides))
+    throw Error("Slides must be an array");
+
+  const slides = [];
+
+  for (const slide of post.slides) {
+    if (!slide || typeof slide !== "object")
+      throw Error("Invalid slide");
+
+    const body = slide.body ?? "";
+    const title = slide.title ?? "";
+
+    if (typeof body !== "string" || typeof title !== "string")
+      throw Error("Slide text must be plain text");
+
+    // Skip unanswered form fields.
+    if (!body.trim()) continue;
+
+    if (title.length > 150 || body.length > 700)
+      throw Error(
+        `Slide ${slides.length + 1} is too long. Shorten the original paragraph.`
+      );
+
+    slides.push({
+      number: slides.length + 1,
+      title,
+      body
+    });
+  }
+
+  if (slides.length < 2 || slides.length > 10)
+    throw Error("Provide 2–10 filled paragraphs");
 
   return {
-    caption: post.caption.trim(),
-    slides: post.slides.map((slide, index) => {
-      if (
-        typeof slide.title !== "string" ||
-        !slide.title.trim() ||
-        typeof slide.body !== "string" ||
-        !slide.body.trim()
-      ) throw Error(`Slide ${index + 1} needs title and body`);
-
-      if (slide.title.length > 150 || slide.body.length > 700)
-        throw Error(`Slide ${index + 1} exceeds text limits`);
-
-      return {
-        number: index + 1,
-        title: slide.title.trim(),
-        body: slide.body.trim()
-      };
-    })
+    caption: post.caption,
+    slides
   };
 }
 
