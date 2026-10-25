@@ -1,0 +1,40 @@
+{
+  "caption": "From Atomic Habits to AI prompts, tiny systems beat big plans. Try one book idea with a clear AI prompt today. Which task will you turn into a repeatable AI workflow? #AIforBusiness #ProductivityHacks #SystemsOverGoals #TimeSaver",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Hard Task Block",
+      "body": "You keep dodging the hardest task until it blocks your week."
+    },
+    {
+      "number": 2,
+      "title": "Book Idea",
+      "body": "Idea from Atomic Habits by James Clear: tiny routines compound; build systems, not just goals."
+    },
+    {
+      "number": 3,
+      "title": "Bad Prompt",
+      "body": "Bad prompt: \"Give me my tasks for today.\""
+    },
+    {
+      "number": 4,
+      "title": "Better Prompt",
+      "body": "Better prompt: \"Act as my AI assistant. List 3 tasks for today with next action each.\""
+    },
+    {
+      "number": 5,
+      "title": "Example Output",
+      "body": "Example: Task 1: Prioritize client email; Next: draft reply. Task 2: Review proposal; Next: ask clarifications. Task 3: Outline pitch."
+    },
+    {
+      "number": 6,
+      "title": "Do This Today",
+      "body": "Task today: run the Better Prompt; check output has 3 tasks, clear next actions, and owners."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Small routines plus precise prompts yield consistent results."
+    }
+  ]
+}
