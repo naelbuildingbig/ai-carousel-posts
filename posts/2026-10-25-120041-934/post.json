@@ -1,0 +1,40 @@
+{
+  "caption": "AI hype vs usefulness is real. These prompts test practical value, not buzz. What will you test first? #AIforWork #PracticalAI #Productivity",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Is AI hype worth it",
+      "body": "A practical check to prove AI adds real value, not buzz. Try these 5 prompts."
+    },
+    {
+      "number": 2,
+      "title": "1. Quick Task Audit",
+      "body": "Review my tasks: [role] list tasks AI can handle; output a table of AI fit and required human checks."
+    },
+    {
+      "number": 3,
+      "title": "2. Idea Spark",
+      "body": "Generate [idea] options for a project using AI; return top 5 ranked by impact vs effort."
+    },
+    {
+      "number": 4,
+      "title": "3. Draft Outline",
+      "body": "Create a draft outline for [task] with sections and milestones; output as a numbered checklist."
+    },
+    {
+      "number": 5,
+      "title": "4. Decision Log",
+      "body": "Log decisions on [task] with criteria and notes; output a decision tree or bullet list."
+    },
+    {
+      "number": 6,
+      "title": "5. ROI and Risks",
+      "body": "Estimate impact for [initiative], list top drivers, and compute rough ROI; output a short justification."
+    },
+    {
+      "number": 7,
+      "title": "Bottom Line",
+      "body": "Remember this: test AI in real tasks. Save this post and follow @naelbuildingbig."
+    }
+  ]
+}
