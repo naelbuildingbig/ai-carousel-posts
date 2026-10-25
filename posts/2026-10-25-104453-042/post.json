@@ -1,0 +1,40 @@
+{
+  "caption": "We cut through AI hype with practical tests. These prompts help you evaluate ROI, risk, and long-term viability. Save this post and follow @naelbuildingbig. Which prompt will you test first? #AIforBusiness #AIPrompts #Entrepreneurship #Productivity",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI Hype vs Usefulness?",
+      "body": "Practical tasks win. Test ideas against real results, not glossy promises. Try these 5 prompts."
+    },
+    {
+      "number": 2,
+      "title": "1. Quick ROI Screen",
+      "body": "Evaluate ROI of AI project: [idea]. Return a table with impact, cost, feasibility and a go/no-go score."
+    },
+    {
+      "number": 3,
+      "title": "2. Identify Quick Wins",
+      "body": "List 3 quick wins for [idea] that save time within a week; output bullets with estimated hours saved."
+    },
+    {
+      "number": 4,
+      "title": "3. Assess Risk Levels",
+      "body": "Map risks for [task] and assign a severity score 1–5; output a risk matrix and recommended mitigations."
+    },
+    {
+      "number": 5,
+      "title": "4. Compare Costs",
+      "body": "Estimate total costs for [idea], including setup and maintenance; output an itemized budget and breakeven point."
+    },
+    {
+      "number": 6,
+      "title": "5. Long-term Viability",
+      "body": "Forecast 12-month viability for [idea] and output a short narrative plus 3 indicators to watch."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway: Real Impact Wins",
+      "body": "Test for real impact, not buzz. Save this post and follow @naelbuildingbig."
+    }
+  ]
+}
