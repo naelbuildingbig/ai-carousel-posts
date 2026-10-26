@@ -1,0 +1,40 @@
+{
+  "caption": "Ownership and attribution in AI work is real and practical. These prompts help you map rights, attribution, and contracts. Save this post and follow @naelbuildingbig for more prompts. What part of AI ownership worries you most? #AIforBusiness #IPRights #AIPolicy #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "1. Who Owns AI Content?",
+      "body": "Clarify who owns AI outputs and licenses before use."
+    },
+    {
+      "number": 2,
+      "title": "1. Quick Rights Check",
+      "body": "Review AI tool terms for ownership: [role]. Return owner, license scope, and disclosure requirements."
+    },
+    {
+      "number": 3,
+      "title": "2. Attribution Policy",
+      "body": "Draft a client-ready attribution rule: [task]. Output a one-paragraph policy and example wording."
+    },
+    {
+      "number": 4,
+      "title": "3. IP Risk Scan",
+      "body": "Identify potential IP risks in AI outputs: [idea]. Return a bullet list of claims and mitigations."
+    },
+    {
+      "number": 5,
+      "title": "4. Client Contract Clause",
+      "body": "Draft a contract clause covering AI-generated content rights: [draft]. Include scope, attribution, and revocation."
+    },
+    {
+      "number": 6,
+      "title": "5. Personal Use Policy",
+      "body": "Create a personal AI use policy for a business: [idea]. Output a one-page policy with do/don'ts and approval workflow."
+    },
+    {
+      "number": 7,
+      "title": "7. Policy Wins Ownership",
+      "body": "Formalize ownership with a clear policy to protect value."
+    }
+  ]
+}
