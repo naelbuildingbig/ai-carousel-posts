@@ -1,0 +1,40 @@
+{
+  "caption": "AI hype vs real usefulness in business isn't a guess. These prompts help you judge tools by impact, not buzz. Use them in your next vendor review and share results. Which tool passed your practical test? #AIforBusiness #PracticalAI #EntrepreneurTools",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI hype vs usefulness",
+      "body": "AI hype inflates tool value; focus on real impact. Try these 5 prompts."
+    },
+    {
+      "number": 2,
+      "title": "1. Quick Value Check",
+      "body": "Rate each tool in [tools] by RealImpact vs Hype. Return a table with Tool, RealImpact, HypeScore, Recommendation."
+    },
+    {
+      "number": 3,
+      "title": "2. Compare Tools",
+      "body": "Compare tools in [tools] by RealImpact minus Hype. Output a ranked list of Tools with scores."
+    },
+    {
+      "number": 4,
+      "title": "3. Risk Flags",
+      "body": "For each tool in [tools], list 2 red flags if required data is missing; provide mitigation notes."
+    },
+    {
+      "number": 5,
+      "title": "4. Cost vs Benefit",
+      "body": "Estimate monthly cost and impact for [tools]. Return a decision note on whether to adopt."
+    },
+    {
+      "number": 6,
+      "title": "5. Action Roadmap",
+      "body": "Create a 2-week trial plan for [tool], with milestones, owners, and success criteria."
+    },
+    {
+      "number": 7,
+      "title": "Measure value, not hype",
+      "body": "A quick reminder: save this post and follow @naelbuildingbig."
+    }
+  ]
+}
