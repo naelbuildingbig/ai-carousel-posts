@@ -1,0 +1,40 @@
+{
+  "caption": "AI hype often outpaces real results. This carousel lays out five practical prompts to test hype against usefulness in your business. Use them to separate buzz from payoff and keep decisions grounded. Which prompt will you try first? #AIforBusiness #Productivity #AIPrompts",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Hype vs usefulness?",
+      "body": "See what actually works in practice. Try these 5 prompts."
+    },
+    {
+      "number": 2,
+      "title": "1. Quick ROI",
+      "body": "Estimate ROI for [idea] over [time]; return ROI, payback period, and a go/no-go verdict."
+    },
+    {
+      "number": 3,
+      "title": "2. Task automation",
+      "body": "Map [task] into AI steps; output a two-week automation plan with milestones and success metrics."
+    },
+    {
+      "number": 4,
+      "title": "3. Risk & ethics",
+      "body": "Identify ethical, legal, and privacy risks for [idea]; provide mitigations and a compliance checklist."
+    },
+    {
+      "number": 5,
+      "title": "4. Hype vs Usefulness",
+      "body": "Compare claims vs actual results for [idea]; output a short verdict and 2 concrete tests to run."
+    },
+    {
+      "number": 6,
+      "title": "5. Decision criteria",
+      "body": "List criteria to stop or scale [idea]; assign weights and a go/no-go threshold."
+    },
+    {
+      "number": 7,
+      "title": "Final takeaway",
+      "body": "Takeaway: test hype with real prompts. Save this post and follow @naelbuildingbig."
+    }
+  ]
+}
