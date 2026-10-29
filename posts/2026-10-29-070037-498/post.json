@@ -1,0 +1,40 @@
+{
+  "caption": "Your planning should pull impact, not just tasks. This carousel shows five prompts to diagnose and upgrade your prioritisation. Use them to turn busywork into real progress. Which task on your plate would benefit most from an impact-first plan? #AI #Productivity #Prioritization #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "The urgency trap",
+      "body": "You prioritise by urgency and miss impact. Here are five prompts to reframe planning for real results."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priority quality",
+      "body": "Task: Diagnose priority quality. Placeholder: Tasks: [paste tasks]. Output: ranked tasks with impact 1-5, effort 1-5, justification."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve prioritization",
+      "body": "Task: Improve prioritization. Placeholder: Tasks: [paste tasks]. Output: impact/effort matrix with quadrant labels; recommend next actions for top-right."
+    },
+    {
+      "number": 4,
+      "title": "3. Plan a sprint",
+      "body": "Task: Plan a 1-week sprint. Placeholder: Tasks: [paste tasks]. Output: daily goals + 90-minute blocks; include buffers and owners."
+    },
+    {
+      "number": 5,
+      "title": "4. Check value",
+      "body": "Task: Define success criteria. Placeholder: Goals: [paste objectives]. Output: 3 lightweight evaluation criteria and a simple feedback form."
+    },
+    {
+      "number": 6,
+      "title": "5. Build reusable workflow",
+      "body": "Task: Build a reusable planning workflow. Placeholder: Template name. Output: a repeatable 4-step template and prompts for future cycles."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Takeaway: Prioritise by impact, not urgency, with a reusable 4-step planning workflow to finish higher-value work."
+    }
+  ]
+}
