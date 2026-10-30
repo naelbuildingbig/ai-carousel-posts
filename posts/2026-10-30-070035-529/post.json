@@ -1,0 +1,40 @@
+{
+  "caption": "Most planning fails when every task feels urgent. This carousel gives five compact prompts to fix that, step by step. Which task will you re-prioritize first this week? #AIforProductivity #StartupLife #ProductivityHacks #Entrepreneur",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop treating every task urgent.",
+      "body": "Problem: you treat every task as urgent; this weak approach wastes time. Here are five prompts to fix prioritization."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose method",
+      "body": "Prompt: Analyze my weekly task list; identify why prioritization fails. Input: [tasks]; Output: 1-3 concrete failure patterns."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve with impact/effort",
+      "body": "Prompt: Create an impact/effort matrix for [tasks]; label each as high/low impact and easy/difficult; output top 3 priorities."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply timeboxing",
+      "body": "Prompt: For the next 2 days, block time for [top priorities]; output schedule with 2-hour blocks and buffer."
+    },
+    {
+      "number": 5,
+      "title": "4. Check constraints",
+      "body": "Prompt: Compare [tasks] against deadlines, capacity, and energy; output red-yellow-green readiness for each."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine into a rubric",
+      "body": "Prompt: Turn prioritization criteria into a 5-point rubric; output a scoring sheet and example for [task]."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Adopt a single, repeatable prioritization method so you decide fast and finish more high-impact tasks."
+    }
+  ]
+}
