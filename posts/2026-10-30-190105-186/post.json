@@ -1,0 +1,40 @@
+{
+  "caption": "Planning feels like guesswork, but AI prompts can turn it into a repeatable process. This carousel lays out a five-step diagnose-build-check-refine workflow for prioritising work. Use the prompts weekly to keep projects on track and avoid bottlenecks. What task would you prioritise first this week? #AI #Productivity #Founders #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Weak planning, wasted weeks",
+      "body": "Your plan misses priorities. I'll give five prompts to fix planning and accelerate work."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Given task list: [input task list], output a ranked priority list with reasons for top items."
+    },
+    {
+      "number": 3,
+      "title": "2. Define constraints",
+      "body": "From the diagnosed priorities, set constraints: max daily hours, deadlines, and energy limits. Output: constraint list."
+    },
+    {
+      "number": 4,
+      "title": "3. Create plan",
+      "body": "Produce a concrete, time-bound plan: tasks in order, owners, timebox, and milestones. Output: task table."
+    },
+    {
+      "number": 5,
+      "title": "4. Check feasibility",
+      "body": "Given constraints, validate deadlines and capacity. Output: feasibility verdict and adjustments."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Provide a reusable weekly planning ritual: inputs, prompts, cadence, and review. Output: 1-page workflow."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "A clear top-priority plan beats busywork. Save time by running these prompts weekly."
+    }
+  ]
+}
