@@ -1,6 +1,8 @@
 {
   "post_id": "2026-10-31-190037-149",
-  "status": "delivery_started",
+  "status": "published",
   "started_at": "2026-10-31T15:01:08.163Z",
-  "source_commit": "18f69eaa3ce207e96c1c9e34e0010cb29cac91ba"
+  "source_commit": "18f69eaa3ce207e96c1c9e34e0010cb29cac91ba",
+  "instagram_post_id": "18181237330438644",
+  "finished_at": "2026-10-31T15:01:56.863Z"
 }
