@@ -1,0 +1,40 @@
+{
+  "caption": "Your idea is often judged by ROI alone. This carousel adds a structured, scenario-based evaluation you can reuse. Which criterion do you trust most when evaluating a new idea? #AI #DecisionMaking #Productivity #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your decision metric is insufficient",
+      "body": "Your decision metric is insufficient. Five prompts test reliability, bias, and depth."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose weakness",
+      "body": "Diagnose weakness: Identify three blind spots in evaluating an idea using ROI only. Input: [IDEA]. Output: bullets with brief explanations."
+    },
+    {
+      "number": 3,
+      "title": "2. Define criteria",
+      "body": "Define criteria: Propose complete decision criteria for [IDEA] across impact, feasibility, risk, timing, and ethics."
+    },
+    {
+      "number": 4,
+      "title": "3. Quantify risks",
+      "body": "Quantify risks: Rate each criterion 1–5, estimate likelihood, and give worst/best-case outcomes."
+    },
+    {
+      "number": 5,
+      "title": "4. Scenario planning",
+      "body": "Scenario planning: Create base, optimistic, and pessimistic scenarios for [IDEA], scoring per criterion."
+    },
+    {
+      "number": 6,
+      "title": "5. Create workflow",
+      "body": "Create workflow: Provide a reusable fill-in checklist for any idea, with owner, due date, and next steps."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Takeaway: Use multi-criteria thinking and scenarios to defend decisions, not rely on one metric."
+    }
+  ]
+}
