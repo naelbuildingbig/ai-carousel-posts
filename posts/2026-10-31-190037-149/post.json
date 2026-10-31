@@ -1,0 +1,40 @@
+{
+  "caption": "AI checks feel thorough but miss errors. This carousel shows a practical, no-fluff workflow to audit AI drafts. Save this as a reusable QA routine. Do you have a go-to step for verifying AI outputs? #AIQA #Productivity #Founders #BusinessDecisions",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Don't trust AI to verify",
+      "body": "Problem: AI outputs seem right but can be wrong. I'll give five prompts to audit them."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose quality",
+      "body": "Review [DOCUMENT]; list factual errors, contradictions, and omissions. Output: bullet list with issue, severity, suggested fix."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "Rewrite [DOCUMENT] to fix factual errors, simplify sentences, add citations in [STYLE]. Output: revised document."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply to formats",
+      "body": "Create two deliverables from [DOCUMENT]: a 1-page executive summary and a client email. Output: both in bullets."
+    },
+    {
+      "number": 5,
+      "title": "4. Check for bias",
+      "body": "Scan [DOCUMENT] for bias, assumptions, and unsupported claims. Output: list of flagged items with rationale."
+    },
+    {
+      "number": 6,
+      "title": "5. Build QA workflow",
+      "body": "Create a reusable QA checklist for future AI work in [TEAM]. Output: ready-to-use checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Final takeaway: with a structured QA, you catch errors early and ship reliable AI outputs."
+    }
+  ]
+}
