@@ -1,0 +1,40 @@
+{
+  "caption": "AI advice often sounds confident but skips testing. This carousel shows how to use AI to frame decisions, not crown a winner. Are you using AI to decide or to question? #AIatWork #DecisionMaking #Productivity #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Let AI Decide Your Idea",
+      "body": "AI verdicts arrive too soon. Here are five prompts to frame, test, and refine decisions, not final calls."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose risks",
+      "body": "Prompt: Given idea [IDEA], list five risks with likelihood and impact, score 0-100, and one blind-spot note."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "Prompt: Translate [IDEA] into 3 testable hypotheses with success metrics and a decision-criterion set for quick checks."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply scenario tests",
+      "body": "Prompt: Simulate two realistic future scenarios for [IDEA] and output decision outcomes and warning signals."
+    },
+    {
+      "number": 5,
+      "title": "4. Check robustness",
+      "body": "Prompt: Identify dependencies, data gaps, and potential biases in AI recommendations for [IDEA], and propose data needed to verify."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine with a plan",
+      "body": "Prompt: Create a two-week test plan for [IDEA] with milestones, metrics, and a rollback rule."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Takeaway: Treat AI as a decision frame, then validate with small tests and clear criteria."
+    }
+  ]
+}
