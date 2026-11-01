@@ -1,0 +1,40 @@
+{
+  "caption": "AI can help, but it isn't a substitute for verification. This carousel gives five prompts to verify AI-generated work before publishing. Diagnose, cite, improve tone, check flow, and refine with a final checklist. Which part will you start with today? #AIinBusiness #Productivity #AIQuality #ContentVerification",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Reality check: AI sounds right",
+      "body": "A polished AI draft hides errors and missing sources. Here are five prompts to systematically verify and fix it."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose accuracy",
+      "body": "Prompt 1: Paste draft {draft_text}. List each factual claim, mark True/False, cite sources. Output: bullet list with claim, verdict, sources."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve citations",
+      "body": "Prompt 2: For each claim lacking citation, generate a probable source placeholder and a brief rationale; output as list."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply improvements",
+      "body": "Prompt 3: Rewrite draft {draft_text} for target audience and tone; keep claims but improve clarity. Output: revised paragraph."
+    },
+    {
+      "number": 5,
+      "title": "4. Check flow",
+      "body": "Prompt 4: Assess structure: introduction, body, conclusion; report on flow issues and suggest transitions. Output: list of issues and fixes."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine checklist",
+      "body": "Prompt 5: Produce a concise, auditable checklist {checklist_name}. Include criteria, owners, deadlines; format as numbered steps."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Verified AI outputs you can publish with confidence; follow the prompts to save time and avoid misstatements."
+    }
+  ]
+}
