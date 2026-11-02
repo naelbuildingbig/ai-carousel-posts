@@ -1,0 +1,40 @@
+{
+  "caption": "AI research is only as strong as your verification steps. This carousel gives five prompts to audit AI output. Save it to standardize checks on every project. What verification step will you add today? #AI #Productivity #DecisionMaking #BusinessAI",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Reality Check: AI research gaps",
+      "body": "AI tests your claims only if you ask the right questions. Here are five prompts to verify, cite, and apply."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose reliability",
+      "body": "1. Diagnose reliability: For topic [TOPIC], list claims, sources, credibility scores; output: bullet list with links and confidence."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve accuracy",
+      "body": "2. Improve accuracy: Cite primary sources for each claim; output: revised paragraph with inline citations."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply safely",
+      "body": "3. Apply safely: Summarize findings to a decision memo; include risk notes and next steps; output: concise memo."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias",
+      "body": "4. Check bias: Identify potential biases in data and framing; output: bias list with impact rating."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "5. Refine workflow: Create a quick verification checklist and a template for future checks; output: reusable checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Verify AI output before acting; save this guide and follow @naelbuildingbig for practical checks."
+    }
+  ]
+}
