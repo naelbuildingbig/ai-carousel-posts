@@ -1,0 +1,40 @@
+{
+  "caption": "This five-step vetting flow helps you trust AI outputs. Save it as a repeatable workflow. What's the first claim you would verify in your next AI draft? #AI #Productivity #DecisionMaking #naelbuildingbig",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your AI checks miss errors",
+      "body": "The concrete problem: AI outputs look solid but hide errors, sources, and biases. Here are five prompts to vet and fix AI-generated work."
+    },
+    {
+      "number": 2,
+      "title": "1. Quick accuracy check",
+      "body": "Task: list factual claims, verdict (True/False/Unverified), and one source per claim. Output format: bullet list. Placeholder: {AI_OUTPUT}."
+    },
+    {
+      "number": 3,
+      "title": "2. Source verification",
+      "body": "Task: verify each cited source; provide link, summary credibility, and flag missing references. Output: list grouped by claim. Placeholder: {CITATIONS}."
+    },
+    {
+      "number": 4,
+      "title": "3. Fact-check deltas",
+      "body": "Task: extract numerical figures; compare to a trusted dataset; report delta, source, and confidence level. Placeholder: {DATASET}."
+    },
+    {
+      "number": 5,
+      "title": "4. Clarity and bias check",
+      "body": "Task: identify ambiguous or biased language; suggest two clarifications and one counter-bias rewrite. Output: bullet list. Placeholder: {TEXT}."
+    },
+    {
+      "number": 6,
+      "title": "5. Final vetting workflow",
+      "body": "Task: combine all checks; output final verdict, one-paragraph summary, and a checklist to reuse. Placeholder: {SYNTHESIS}."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use this five-step vetting workflow to make AI-generated work reliable and decision-ready."
+    }
+  ]
+}
