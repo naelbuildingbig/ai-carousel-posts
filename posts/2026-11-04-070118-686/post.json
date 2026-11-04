@@ -1,0 +1,40 @@
+{
+  "caption": "Too many AI moves chase perfection while we still waste hours on follow-ups and edits. This carousel shows a practical five-step prompt flow for repetitive admin tasks, from diagnosing time sinks to refining a reusable workflow. Copy the prompts, test them on one task, and measure time saved. Which admin task will you automate first? #AI #Productivity #Automation #Founders",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI emails aren't finished",
+      "body": "Automate isn't magic; many chase speed and produce messy drafts. Here is a better five-prompt flow to fix admin tasks."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose time sinks",
+      "body": "List top 5 admin tasks weekly; give hours and root causes; Output: bulleted diagnostic with times."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve with templates",
+      "body": "Draft templates for common replies and schedules; output a finalized plain-text draft with placeholders {NAME}, {DATE}, {ACTION}."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply with automation",
+      "body": "Create a workflow to auto-fill templates from a task cue; output: a step-by-step automation plan; include trigger, data source, routing, and review."
+    },
+    {
+      "number": 5,
+      "title": "4. Check output",
+      "body": "Run a quick QA rubric on a sample email batch; output: checklist evaluating tone, accuracy, completion, consistency."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Summarize learnings into a reusable prompt pack; output: final prompt bundle with guardrails and 2-min review checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "A repeatable prompt pack cuts manual edits and keeps quality; start with a diagnostic prompt and build templates."
+    }
+  ]
+}
