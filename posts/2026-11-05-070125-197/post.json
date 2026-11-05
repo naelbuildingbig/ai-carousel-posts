@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts can feel convincing even when they aren’t. This carousel gives a practical five-step verification routine for AI output. Use it before you publish anything AI-generated. Do you run a source verification pass before publishing? #AI #Productivity #DecisionMaking",
+  "slides": [
+    {
+      "number": 1,
+      "title": "MISTAKE: AI drafts",
+      "body": "You trust AI outputs too easily. Here are five prompts to verify work and catch hidden errors."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose claims",
+      "body": "Prompt: Take [DOCUMENT]. Extract all factual claims. Mark unverified items; list missing sources; produce a quick reliability score (0–100)."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve credibility",
+      "body": "Prompt: For each claim with sources, rate source reliability (1-5) and suggest stronger citations; rewrite questionable sentence."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply checks",
+      "body": "Prompt: Summarize the document’s conclusions; verify against the cited evidence; if mismatch, propose corrected conclusion."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias",
+      "body": "Prompt: Identify potential bias in framing; note omitted viewpoints; adjust tone to neutral; provide alternative interpretations."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Prompt: Generate a QA checklist for future AI outputs; include sources, cross-checks, bias notes, and a confidence meter."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Closing: Save this five-step verification routine for future AI outputs; follow @naelbuildingbig for more practical prompts."
+    }
+  ]
+}
