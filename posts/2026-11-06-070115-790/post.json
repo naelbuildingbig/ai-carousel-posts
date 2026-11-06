@@ -1,0 +1,40 @@
+{
+  "caption": "AI-generated work can look fine while hiding gaps. This carousel gives a practical five-step audit to verify accuracy. Save for future reviews. Which prompt will you use first? #AI #Productivity #DecisionMaking #Entrepreneur",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Polished AI can mislead",
+      "body": "Polished AI can mislead. This carousel promises five prompts to audit accuracy."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose gaps",
+      "body": "Diagnose gaps in the AI answer. List 5 missing facts with brief justification. Use [SOURCE] placeholders where needed."
+    },
+    {
+      "number": 3,
+      "title": "2. Propose fixes",
+      "body": "Suggest concrete corrections to fix gaps. Provide revised text. Use [REV] for edits."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply fixes",
+      "body": "Summarize corrected answer in 3 bullets."
+    },
+    {
+      "number": 5,
+      "title": "4. Cross-check",
+      "body": "Cross-check facts against two trusted sources; list any mismatches."
+    },
+    {
+      "number": 6,
+      "title": "5. QA checklist",
+      "body": "Create a minimal QA rubric to prevent future errors."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Always run this five step audit before sharing AI work; accuracy supports better decisions."
+    }
+  ]
+}
