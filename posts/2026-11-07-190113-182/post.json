@@ -1,0 +1,40 @@
+{
+  "caption": "AI planning often treats every task the same, slowing you down. This carousel gives five practical prompts to diagnose, improve, apply, check, and refine prioritization. Which prompt will you try first this week? #AItools #Productivity #Prioritization #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Put Impact Before Tasks",
+      "body": "Your AI sorts tasks by order written, not impact; here are five prompts to diagnose, improve, apply, check, refine prioritization."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose Priority",
+      "body": "Task: evaluate current priorities. Input: [task list]. Output: numbered tasks with impact score 1-5 and short rationale."
+    },
+    {
+      "number": 3,
+      "title": "2. Define Criteria",
+      "body": "Task: build prioritization rubric with weights summing to 100. Input: project goals. Output: bullet list with weights."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply Backlog",
+      "body": "Task: generate a ranked sprint backlog using criteria; input: tasks; capacity. Output: ordered list; constraint: fit sprint capacity."
+    },
+    {
+      "number": 5,
+      "title": "4. Check Feasibility",
+      "body": "Task: simulate a two-week sprint; inputs: prioritized list, capacity; Output: risks with mitigations; evaluation: feasibility score 1-5."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine Feedback",
+      "body": "Task: adjust backlog per stakeholder input; Input: previous backlog, feedback; Output: revised priorities with delta; constraint: show changes."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Outcome: a repeatable impact-first prioritization workflow that teams can reuse."
+    }
+  ]
+}
