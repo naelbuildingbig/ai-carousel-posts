@@ -1,0 +1,40 @@
+{
+  "caption": "AI can help plan your week, but you need guardrails. These prompts guide diagnosing priorities, improving methods, applying a weekly plan, checking constraints, and refining with feedback. Save for weekly use. What constraint would you add to your AI plan first? #AIforWork #Productivity #Prioritization #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Don't Let AI Pick Priorities",
+      "body": "Your AI plan misses urgency. Here are five prompts to diagnose, improve, apply, check, and refine."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose Priorities",
+      "body": "Prompt 1: Diagnose priorities. Task: summarize <WEEK_TASKS> with deadlines and impact. Output: numbered list with urgency tags."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve Method",
+      "body": "Prompt 2: Improve method. Propose a prioritization framework (RICE or MoSCoW). Placeholder: <BUSINESS_GOALS>. Output: framework steps and a mapping table."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply Plan to Week",
+      "body": "Prompt 3: Apply a week plan. Given <WEEK_TASKS>, assign priority scores using the framework and suggest time estimates."
+    },
+    {
+      "number": 5,
+      "title": "4. Check Alignment",
+      "body": "Prompt 4: Check constraints. Verify plan aligns with <BUDGET>, <ENERGY_LIMIT>, and <DEADLINES>. Output: checklist of gaps."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine with Feedback",
+      "body": "Prompt 5: Refine plan. After <REVIEW_COMMENTS>, adjust priorities by constraints and remove non-essentials. Output: revised list."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use guardrails, then review weekly; this keeps AI from stealing your priorities."
+    }
+  ]
+}
