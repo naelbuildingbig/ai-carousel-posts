@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts can look polished but be wrong. These five prompts help diagnose, improve, apply, check, refine. Which prompt will you use first today? #AIatwork #Productivity #Entrepreneurship #DecisionMaking",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI checks are too shallow",
+      "body": "Your AI output may look fine but be wrong. Here are five prompts to diagnose, improve, apply, check, refine."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose errors",
+      "body": "Paste AI draft in [text]. List three factual errors and one unsupported claim; present as a numbered list; include sources."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "Rewrite the draft in plain language for a non-expert audience, as a single paragraph under 150 words."
+    },
+    {
+      "number": 4,
+      "title": "3. Add context",
+      "body": "Add three concrete, business-relevant examples from [your industry] that illustrate key points without new data."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias",
+      "body": "Run a quick bias check: identify one potential bias and suggest a neutral alternative phrasing."
+    },
+    {
+      "number": 6,
+      "title": "5. Ready-to-send",
+      "body": "Provide a 5-point go/no-go checklist to decide readiness."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use these prompts to stay honest with AI drafts; verification saves time and avoids errors."
+    }
+  ]
+}
