@@ -1,0 +1,40 @@
+{
+  "caption": "Turning gut checks into data-driven decisions for ideas. This carousel provides five prompts to evaluate value, risks, and next steps. Which idea will you test with this framework first? #AI #Entrepreneur #Productivity #DecisionMaking",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop relying on gut checks",
+      "body": "Problem: gut judgments mislead decisions. Promise: five prompts to evaluate ideas with AI, improving outcomes."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose fit",
+      "body": "Prompt: Assess problem-solution fit for {idea_description} with {market_data}. Output: score 0-100 and top 2 risks."
+    },
+    {
+      "number": 3,
+      "title": "2. Expand criteria",
+      "body": "Prompt: Expand the criteria to weigh impact, cost, time-to-value, and risks for {idea_description}. Output: criteria list with scores."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply to idea",
+      "body": "Prompt: Apply to {idea_description} using the diagnostic score and criteria. Output: one-page decision brief with recommended action."
+    },
+    {
+      "number": 5,
+      "title": "4. Check risks",
+      "body": "Prompt: Run scenario tests and bias checks on {idea_description}. Output: list of 3 edge-case scenarios and 2 bias risks."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Prompt: Propose a concise, testable guardrail and next steps for {idea_description}. Output: 3 concrete next steps and a guardrail."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "This framework turns a gut call into a scored, testable decision with clear next steps."
+    }
+  ]
+}
