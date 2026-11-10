@@ -1,0 +1,40 @@
+{
+  "caption": "This carousel shows a practical AI workflow to plan and prioritize work. Start by diagnosing gaps, then turn outputs into a lean, actionable sprint plan. Save this for your next planning session. Which part will you test first this week? #AIforBusiness #Productivity #Prioritization #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop chaotic planning with AI",
+      "body": "Problem: you overcommit, misprioritize, and lose track. Five prompts to diagnose, improve, apply, check, and refine your plan."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose plan gaps",
+      "body": "Task: audit plan for prioritization; Input: {plan}; Output: top 3 gaps."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve prioritization",
+      "body": "Task: rewrite plan to reflect top 5 items; Input: {plan}; Output: ordered list with owners."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply actionable briefs",
+      "body": "Task: generate one-page plan for next sprint; Input: {plan}; Output: brief with 3 concrete actions and owners."
+    },
+    {
+      "number": 5,
+      "title": "4. Check risks",
+      "body": "Task: list top 3 risks from plan; Input: {plan}; Output: risk bullets with mitigation."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Task: propose a lightweight daily check; Input: {plan}; Output: 5-min daily checklist and cadence."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use AI prompts to audit your plan and keep a living sprint backlog."
+    }
+  ]
+}
