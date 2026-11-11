@@ -1,0 +1,40 @@
+{
+  "caption": "AI outputs can look perfect while still being wrong. These five checks help you verify AI-generated work. Do you fact-check AI output before publishing? #AI #Productivity #DecisionMaking #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Reality: AI checks miss context",
+      "body": "AI outputs can misstate facts, cite errors, or omit nuance. Here are five prompts to verify and improve AI-generated work."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose accuracy",
+      "body": "Cross-check claims with reliable sources. Input: {{text}} Output: verified_claims with source_list."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "Rephrase vague sentences for precision. Input: {{text}} Output: rewritten_text with clarity_score (0-1)."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply citations",
+      "body": "Add missing citations and date ranges. Input: {{text}} Output: text_with_citations."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias and gaps",
+      "body": "Identify bias risk and coverage gaps. Input: {{text}} Output: bias_gaps_report."
+    },
+    {
+      "number": 6,
+      "title": "5. Build workflow",
+      "body": "Create a repeatable QA workflow you can reuse. Output: YAML_template with steps."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway: Verify AI work",
+      "body": "Make verification a habit. A solid QA before sharing saves time and risk."
+    }
+  ]
+}
