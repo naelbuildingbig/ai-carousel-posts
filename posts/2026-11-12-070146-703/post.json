@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts can sound confident while hiding errors. This carousel provides a compact, repeatable verification workflow for AI-generated research. Use the five prompts to diagnose, improve, apply, verify, and refine. Ready to test on your next AI draft? #AI #Productivity #Founders #DecisionMaking",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Reality check: AI claims unreliable",
+      "body": "AI drafts read confident yet unreliable. Here are five prompts to diagnose, improve, apply, verify, and refine."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose reliability",
+      "body": "Input: [PASTE AI TEXT HERE]. Identify debatable claims and citations; rate credibility (1-5); flag unverifiable statements; list sources."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve credibility",
+      "body": "Input: debunked claims list from slide 2. Task: rewrite clearly, add citations and access dates, remove unsupported claims. Output: bullets."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply verification",
+      "body": "Input: [PASTE AI DRAFT HERE]. Task: diagnose, attach verifiable sources, compute trust score, deliver verdict and suggested edits. Output: verdict."
+    },
+    {
+      "number": 5,
+      "title": "4. Cross-check results",
+      "body": "Input: [CITATIONS]. Task: search each citation independently; note discrepancies, add context; output: match score and brief rationale."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Input: [VERIFIED RESULTS]. Task: integrate prompts into a reusable SOP; provide a one-page checklist; test on 1 new document."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Conclusion: verification beats polish. Save this workflow to ensure AI outputs are verifiable, and share with teammates."
+    }
+  ]
+}
