@@ -1,0 +1,40 @@
+{
+  "caption": "Most people plan by how loud requests feel instead of real impact. This carousel provides a simple 5-prompt method to turn a messy backlog into clear priorities. Which task would you rank first today? #AIforWork #Productivity #Founders #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop prioritising by urgency",
+      "body": "Problem: planning by urgency wastes energy. Five prompts promise clearer priorities, better estimates, and outcomes."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose impact vs effort",
+      "body": "Task: rank tasks by Impact and Effort (1-5) from your backlog; Output: numbered list with Task, Priority, Rationale."
+    },
+    {
+      "number": 3,
+      "title": "2. Reframe to outcomes",
+      "body": "Task: rewrite each task as an outcome with a measurable success metric; Output: list of Task to Outcome (metric)."
+    },
+    {
+      "number": 4,
+      "title": "3. Build 7-day plan",
+      "body": "Task: create 7-day plan with daily focus and time blocks; include hours placeholder {hours_per_day}; Output: Day X: Focus, Hours."
+    },
+    {
+      "number": 5,
+      "title": "4. Check feasibility & blockers",
+      "body": "Task: map dependencies and blockers; Output: list blockers, required inputs, and mitigation steps."
+    },
+    {
+      "number": 6,
+      "title": "5. Guardrail-driven refinement",
+      "body": "Task: set if-then guardrails for changes in constraints; Output: new ranking and plan adjustments if constraint changes."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Takeaway: outcomes trump urgency; use the five prompts to turn a messy backlog into a focused plan."
+    }
+  ]
+}
