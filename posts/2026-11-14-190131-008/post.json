@@ -1,0 +1,40 @@
+{
+  "caption": "AI outputs can mislead if you skip verification. This carousel provides five concrete prompts to verify AI-generated work and guide decisions. Use it as a quick QA checklist on any report or draft. Do you verify AI outputs before acting? #AIforBusiness #Productivity #AIQA #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Mistake: AI reports mislead",
+      "body": "Problem: AI outputs can mislead; verify before decisions. Five prompts to guarantee accuracy."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose accuracy",
+      "body": "Task: In {OUTPUT}, find factual claims. Output: JSON array of {claim, source, credibility:1-5}."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve checks",
+      "body": "Task: For each claim in {OUTPUT}, cross-check with at least 2 sources; Output: JSON array of {claim, source, status: verified/unverified}."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply decisions",
+      "body": "Task: Summarize recommended actions from verified claims; Output: JSON array of actions with recommended option."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias",
+      "body": "Task: Detect bias in {OUTPUT} and list at least three blind spots with impact and mitigations."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Task: Generate a 1-page QA checklist for future AI outputs; include checks for accuracy, sourcing, bias, and usefulness."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Thorough checks beat quick AI drafts. Save this workflow and follow @naelbuildingbig for practical prompts."
+    }
+  ]
+}
