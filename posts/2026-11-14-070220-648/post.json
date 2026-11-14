@@ -1,0 +1,40 @@
+{
+  "caption": "Your AI planning looks neat but misses outcomes. These five prompts guide you from diagnosis to a reusable template. What outcome will you define first this week? #AIplanning #Productivity #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Plans ignore outcomes",
+      "body": "Your AI plan looks neat but lacks measurable goals. Define success before scheduling; these five prompts will help."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Task: diagnose priorities from {TASK_LIST} with {DEADLINES}. Output top 3 tasks: Task, Priority (1-3), Rationale, Dependencies, Estimated Effort, Blockers."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve prioritization",
+      "body": "Task: improve prioritization using impact and urgency. From Prompt 1 top 3, assign Quadrants and revise deadlines and estimates."
+    },
+    {
+      "number": 4,
+      "title": "3. Schedule with blocks",
+      "body": "Task: schedule prioritized tasks into 5 days with 60-minute blocks. Input: {WEEK_START_DATE}, {TIME_BLOCKS}, {PRIORITIZED_TASKS}."
+    },
+    {
+      "number": 5,
+      "title": "4. Check blockers",
+      "body": "Task: check blockers. List 5 risks with Likelihood, Impact, and Contingencies from the proposed schedule."
+    },
+    {
+      "number": 6,
+      "title": "5. Create reusable template",
+      "body": "Task: create a reusable weekly planning template. Output fillable sections: Goals, Top Priorities, Schedule, Risks, Contingencies, Review Prompts."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Define outcomes first, then plan. Your schedule should reflect impact, not busywork."
+    }
+  ]
+}
