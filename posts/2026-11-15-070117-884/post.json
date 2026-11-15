@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts can sound convincing yet be wrong. Use this five-prompt QA routine to verify accuracy and sources. Which prompt will you run first to audit AI work today? #AIforBusiness #ProductivityHacks #Founders",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your AI checks mislead you",
+      "body": "People trust AI drafts that sound right but miss checks. Here are five prompts to verify accuracy and context."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose quality",
+      "body": "Task: assess AI answer accuracy for {topic}. Input: {ai_output}. Output: list errors with severity and brief fix."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve context",
+      "body": "Task: surface hidden constraints and source requirements in the {topic}. Input: {ai_output}. Output: revised answer with constraints enumerated."
+    },
+    {
+      "number": 4,
+      "title": "3. Verify sources",
+      "body": "Task: extract claimed data from {ai_output} and check against sources. Input: {ai_output}. Output: list sources with URL or note 'unverified'."
+    },
+    {
+      "number": 5,
+      "title": "4. Edge cases",
+      "body": "Task: test {ai_output} against edge cases relevant to {topic}. Input: {ai_output}. Output: a short table of scenarios and results."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Task: propose a reusable QA workflow for checking AI work. Input: {topic}. Output: step-by-step checklist with decision points."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Final payoff: validate AI work with the five prompts to reduce errors and save time on decisions."
+    }
+  ]
+}
