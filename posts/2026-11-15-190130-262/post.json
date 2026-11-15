@@ -1,0 +1,40 @@
+{
+  "caption": "Urgent-first planning wastes momentum. This carousel shows five prompts to shift to impact-first prioritization. Use them on your next backlog to finish more meaningful work. Which backlog item would gain the most from impact-first planning this week? #AIforWork #Productivity #Prioritization #Workflows",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Impact-First Planning Over Urgency",
+      "body": "Urgent tasks derail your plan. Five prompts to diagnose, prioritize by impact, plan, execute, and refine."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose bottlenecks",
+      "body": "Prompt: Analyze backlog [BACKLOG_SUMMARY]. Output top 3 bottlenecks with impact 1-5 and one-sentence justification."
+    },
+    {
+      "number": 3,
+      "title": "2. Reprioritize by impact",
+      "body": "Prompt: Score each item in [BACKLOG] by impact and effort. Output a ranked list with brief rationale."
+    },
+    {
+      "number": 4,
+      "title": "3. Plan milestones",
+      "body": "Prompt: For top 5 items, draft a 2-week plan with milestones and owners."
+    },
+    {
+      "number": 5,
+      "title": "4. Schedule execution",
+      "body": "Prompt: Convert plan into a sprint schedule with daily tasks and dependencies."
+    },
+    {
+      "number": 6,
+      "title": "5. Check and refine",
+      "body": "Prompt: After one week, evaluate results, update backlog, and re-prioritize."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Adopt impact-first planning to finish more work with less waste. Save this guide for your next backlog."
+    }
+  ]
+}
