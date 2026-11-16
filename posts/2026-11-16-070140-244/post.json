@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts misstate facts. These prompts help fact-check, verify sources, and tighten accuracy before publishing. Which claim will you fact-check first? #AIinBusiness #FactCheck #Productivity #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI drafts misstate facts",
+      "body": "AI drafts can read well but misstate facts. Use these five prompts to fact-check, verify sources, and tighten accuracy."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose",
+      "body": "Read [Draft text]. List each factual claim; mark status: true/likely/unclear/false; give a numbered citation suggestion."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve accuracy",
+      "body": "Rewrite [Draft text] to fix factual errors; keep tone; maintain citations; output: revised draft; ensure no new claims."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply checks",
+      "body": "Generate a checklist for the revised draft: citations, numbers, dates, names, provenance. Output: bullet list."
+    },
+    {
+      "number": 5,
+      "title": "4. Verify sources",
+      "body": "For each cited claim, fetch a source or official doc; provide source type and link placeholder [URL]."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Create a lasting policy to fact-check AI drafts: assign owners, cadence, sign-off rubric. Output: one-page policy draft."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Five-step QA reduces AI mistakes; adopt the checklist to trust drafts and speed up review."
+    }
+  ]
+}
