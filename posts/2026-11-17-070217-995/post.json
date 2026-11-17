@@ -1,0 +1,40 @@
+{
+  "caption": "Most teams plan by deadlines, not impact. This carousel reframes planning around outcomes with practical prompts. Save it and test the prompts on your backlog this week. Which item would you reframe first by impact? #AIProductivity #Prioritisation #ProductivityTips",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop Planning by Due Dates",
+      "body": "You're prioritising by due date, not impact. Five prompts to plan by outcomes, not deadlines."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose impact",
+      "body": "Task: audit backlog and rank by impact minus effort. Output: a numbered top 10 with impact score, effort score, justification."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve framing",
+      "body": "Task: convert each item to a clear outcome and acceptance criterion. Output: a list of items rewritten as outcome-focused statements."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply scope constraints",
+      "body": "Task: assign a two-week cap and resource limit per item. Output: revised backlog with cap tags and 'reassess' markers."
+    },
+    {
+      "number": 5,
+      "title": "4. Check business alignment",
+      "body": "Task: map each item to one strategic goal and expected KPI. Output: matrix showing goal and KPI for top 10."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine to daily plan",
+      "body": "Task: create a one-page plan for the next workday listing top 3 items with time blocks. Output: a concise agenda."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Save time by focusing on impact, not due dates. Use these prompts as a repeatable planning workflow."
+    }
+  ]
+}
