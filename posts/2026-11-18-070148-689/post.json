@@ -1,0 +1,40 @@
+{
+  "caption": "AI can plan, but only if you pin capacity, deadlines, and dependencies. This carousel gives five concrete prompts to diagnose, constrain, prioritize, check, and refine your plan. Save it to build repeatable planning workflows. Which constraint do you usually forget first? #AIforWork #Productivity #DecisionMaking #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI planning hides capacity limits",
+      "body": "Problem: AI plans ignore capacity, deadlines, and reality. Promise: five prompts to diagnose, improve, apply, verify, and refine your plan."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose capacity",
+      "body": "Prompt 1: Diagnose capacity. Input {TASKS}, {TEAM_AVAIL}, {DEADLINES}. Output: prioritized tasks with per-person load, bottlenecks, and must-haves."
+    },
+    {
+      "number": 3,
+      "title": "2. Define constraints",
+      "body": "Prompt 2: Define constraints. Input {TASKS}, {CAPACITY}, {DEADLINES}. Output: constraint-aware plan with non-negotiables and soft trade-offs."
+    },
+    {
+      "number": 4,
+      "title": "3. Prioritize actions",
+      "body": "Prompt 3: Prioritize actions. Input {PRIORITIES}, {DUE_DATES}. Output: ranked actions with rationale, dependencies, and time estimates."
+    },
+    {
+      "number": 5,
+      "title": "4. Check feasibility",
+      "body": "Prompt 4: Check feasibility. Input {PLAN}, {CAPACITY}. Output: feasibility verdict, risk flags, and contingency options."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Prompt 5: Refine workflow. Input {PLAN}, {TEAM}. Output: step-by-step schedule optimized for capacity and deadlines."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Final takeaway: Treat AI plans as drafts; verify capacity and deadlines before acting, then reuse prompts for new work."
+    }
+  ]
+}
