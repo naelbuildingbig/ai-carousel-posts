@@ -1,0 +1,40 @@
+{
+  "caption": "AI planning often yields ideas rather than a plan you can act on. These prompts give you a repeatable workflow to actually decide what matters. Save this for your next planning session and reuse it weekly. Which constraint will you add first to force a decision? #AIforBusiness #Productivity #PlanningTips #naelbuildingbig",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your AI planning drifts",
+      "body": "AI plans without constraints drift. Here are five prompts to diagnose priorities, set input limits, and lock in action."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Analyze backlog [BACKLOG]. Identify top 3 priorities aligned to goals; provide rationale and rough effort estimates in a numbered list."
+    },
+    {
+      "number": 3,
+      "title": "2. Set constraints",
+      "body": "Set constraints for planning session: time window [TIME], scope [SCOPE], decision criteria [CRITERIA]. Output: concise plan 1-page."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply fast win plan",
+      "body": "Create a 7-day action plan from top priority [PRIORITY], with daily tasks and owners. Output: date-stamped list."
+    },
+    {
+      "number": 5,
+      "title": "4. Check feasibility",
+      "body": "Estimate resources [RESOURCES], identify blockers [BLOCKERS], and risks [RISKS]. Output: bullet list with blockers, mitigations, and risk levels."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine the plan",
+      "body": "Review outputs for inconsistencies; optimize for speed vs quality; export final plan as JSON."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Hard constraints turn AI outputs into action. Save this and reuse the five prompts to plan every quarter."
+    }
+  ]
+}
