@@ -1,0 +1,40 @@
+{
+  "caption": "Is your weekly plan all talk and no impact? This carousel gives five precise prompts that turn planning into action. Use them in your next planning session and compare results. What will you try first? #AIforWork #Productivity #DecisionMaking #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Fix planning with AI prompts",
+      "body": "Your planning relies on vague to-do lists, causing missed deadlines and wasted focus. Here are five prompts to fix it."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose bottlenecks",
+      "body": "Analyze tasks [TASKS], deadlines [DEADLINES], capacity [CAPACITY]; identify bottlenecks and misprioritizations; output: ranked tasks with justification."
+    },
+    {
+      "number": 3,
+      "title": "2. Reprioritize by impact",
+      "body": "Reprioritize using impact/effort scores from input [IMPACT] and [EFFORT]; add time estimates; output: execution-ready task list."
+    },
+    {
+      "number": 4,
+      "title": "3. Schedule with certainty",
+      "body": "Apply the new prioritized plan to the next week; output: daily schedule with task allocations and buffer slots."
+    },
+    {
+      "number": 5,
+      "title": "4. Check feasibility quickly",
+      "body": "Check feasibility against constraints; identify overcommitments and risk flags; output: mitigated plan with contingency tasks."
+    },
+    {
+      "number": 6,
+      "title": "5. Create reusable workflow",
+      "body": "Create a reusable weekly planning prompt with a quick sanity-check checklist; output: reusable weekly planning template."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Adopt the five prompts as a repeatable planning workflow; you’ll see clearer priorities, fewer meetings, and faster decisions."
+    }
+  ]
+}
