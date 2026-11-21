@@ -1,0 +1,40 @@
+{
+  "caption": "A simple shift in planning can save hours. These prompts turn busywork into high-impact choices. Save this and try one today. Which task will you reframe first this week? #ai #productivity #planning",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Impact-First Planning",
+      "body": "You're planning by tasks, not impact. Here's five prompts to reframe work around value and urgency."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose Impact",
+      "body": "Diagnose Impact: From [PLACEHOLDER], pick top 3 high-impact items; output: 1) name, 2) impact 1-5, 3) deadline."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve Clarity",
+      "body": "Improve Clarity: For each selected task, translate into measurable objective; output: Task name - objective outcome - success metric."
+    },
+    {
+      "number": 4,
+      "title": "3. Schedule Priorities",
+      "body": "Schedule Priorities: Build a one-week plan focusing on high-impact tasks with dependencies; output daily focus list; include a 1-hour buffer."
+    },
+    {
+      "number": 5,
+      "title": "4. Risk & Bottlenecks",
+      "body": "Identify top 2 blockers per task; propose mitigation steps; output: task - blocker - mitigation; deadline optional."
+    },
+    {
+      "number": 6,
+      "title": "5. Quick Check",
+      "body": "Run a 5-minute reality check: would you still choose this under different constraints? Yes/No + justification."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Impact-first planning makes every hour count; adopt the five prompts as a repeatable weekly routine."
+    }
+  ]
+}
