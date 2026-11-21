@@ -1,0 +1,40 @@
+{
+  "caption": "Your to-do list isn’t a plan; urgency wins but impact loses. Five prompts help you diagnose, improve, apply, check, and refine priorities with AI. Save for weekly use. What task steals your focus today? #AIforProductivity #Prioritization #ProductivityHacks",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop Urgency-Only Prioritizing",
+      "body": "Urgency-first lists waste time. Use a smarter 2D matrix to choose tasks by impact and effort. Five prompts follow."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Prompt: Given tasks: [paste], rate impact (H/M/L) and effort (H/M/L); output a 2x2 map and ranked list; format: bullets."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve options",
+      "body": "Prompt: For each top-priority task, propose 2–3 options to lower effort or raise impact; include trade-offs; format: short options."
+    },
+    {
+      "number": 4,
+      "title": "3. Plan execution",
+      "body": "Prompt: Create a 5-day plan mapping top tasks to days, with time-box estimates and simple dependencies; format: daily list."
+    },
+    {
+      "number": 5,
+      "title": "4. Check alignment",
+      "body": "Prompt: Compare plan to goals; flag tasks missing outcomes or needing uncertain effort; format: flags + rationale."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Prompt: Produce a reusable 2-step daily priority refresh; output: short list, date, next action; format: checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Takeaway: Use a reusable weekly prioritization routine with AI prompts; save this and follow @naelbuildingbig for more."
+    }
+  ]
+}
