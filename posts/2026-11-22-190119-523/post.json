@@ -1,0 +1,40 @@
+{
+  "caption": "Most weekly plans start with tasks and end with little impact. These five prompts help you diagnose, prioritize, and ship outcomes. What outcome will you ship this week?",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Outcomes beat task lists",
+      "body": "Problem: you plan tasks, not outcomes, wasting time. Five prompts will diagnose, reframe, plan, test, and refine your work."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose outcomes",
+      "body": "Diagnose outcomes. Prompt: Given tasks [INPUT_TASKS], map each to a defined outcome, flag missing outcomes. Output: table: Task, Outcome, Impact(1-5)."
+    },
+    {
+      "number": 3,
+      "title": "2. Reframe priorities",
+      "body": "Prompt: For each outcome, propose top-priority task; drop non-critical tasks. Output: ordered list by impact, with new deadlines."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply constraints",
+      "body": "Prompt: Given outcomes and capacity [CAPACITY], assign tasks into weekly blocks; cap hours per week; ensure coverage."
+    },
+    {
+      "number": 5,
+      "title": "4. Check realism",
+      "body": "Prompt: Check feasibility by comparing planned vs actual velocity last 2 weeks; flag overcommitments; adjust plan."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Prompt: Produce a reusable weekly brief: objectives, top 3 tasks, success metrics, owners, deadlines; export as checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Outcome-first planning saves time and aligns work with impact; use these prompts to ship outcomes, not busywork."
+    }
+  ]
+}
