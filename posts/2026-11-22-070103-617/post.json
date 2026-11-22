@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts can look polished yet hide errors. This carousel delivers a practical five-prompt audit to verify accuracy, clarity, and bias. What draft will you audit first? #AI #Productivity #BusinessAI",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop trusting AI drafts",
+      "body": "AI can miscite, hallucinate, or omit sources. Here are five prompts to audit and fix AI work."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose accuracy",
+      "body": "Given {DRAFT} and {SOURCES}, list factual claims with citations and a confidence score."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "Rewrite the draft for clarity and brevity; preserve meaning; show before/after."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply to document",
+      "body": "Annotate the draft with issue tags (fact, bias, tone) and suggested fixes."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias and licensing",
+      "body": "Flag potential bias and licensing risks, propose neutral alternatives and attribution steps."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Provide a reusable QA checklist for future drafts; include success criteria."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "A five-prompt audit makes AI drafts reliable, sourced outputs you can trust."
+    }
+  ]
+}
