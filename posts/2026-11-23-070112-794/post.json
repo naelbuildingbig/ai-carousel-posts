@@ -1,0 +1,40 @@
+{
+  "caption": "Your AI plan should weight impact, not just deadlines. This five-prompt chain guides diagnosis, clarity, and weekly prioritization. Try it this week and see what climbs the list. Which task would you re-prioritize first using scoring? #AIPrompting #ProductivityTips #AIinWork #NAELBuildingBig",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Don't rank by due date",
+      "body": "If you only model tasks by due dates, you waste energy. Here are five prompts to plan high-impact work."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Task: Paste your task list here. Output: a ranked list with Task, Impact 1-5, Effort 1-5, Priority = Impact-Effort (0-10)."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "For each task, rewrite as a concrete deliverable and define success criteria. Output: Task, Deliverable, Acceptance criteria (1 sentence)."
+    },
+    {
+      "number": 4,
+      "title": "3. Plan with constraints",
+      "body": "Task: Use available daily hours placeholder to schedule top tasks. Output: day-by-day plan with date, hours, tasks, rationale."
+    },
+    {
+      "number": 5,
+      "title": "4. Check dependencies",
+      "body": "Prompt: Identify task predecessors, blockers, and failure risks. Output: dependency map with Task, Predecessors, Blockers, Sequencing notes."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine and automate",
+      "body": "Prompt: Turn prior steps into a reusable weekly workflow. Output: a compact checklist and a sample prompt chain to copy."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Score tasks by impact minus effort and schedule the top items first. Save this workflow to keep planning consistent."
+    }
+  ]
+}
