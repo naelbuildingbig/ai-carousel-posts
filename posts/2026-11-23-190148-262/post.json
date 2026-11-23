@@ -1,0 +1,40 @@
+{
+  "caption": "Relying on a single AI response can miss risk and nuance when evaluating ideas. Use this five-prompt framework to diagnose, compare, stress-test, plan, and verify. What idea are you evaluating first this week? #AI #productivity #decisionmaking #startups",
+  "slides": [
+    {
+      "number": 1,
+      "title": "AI alone harms decisions",
+      "body": "Relying on AI alone biases judgment. Five prompts to evaluate ideas more robustly."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose criteria",
+      "body": "Task: For [IDEA], list 5 decision criteria with 1-sentence justification each. Output: 1–5 lines, criterion — justification."
+    },
+    {
+      "number": 3,
+      "title": "2. Compare options",
+      "body": "Task: Compare [IDEA] vs [ALTERNATIVE], rate on each criterion 1–5, include brief pros/cons. Output: a table-like list."
+    },
+    {
+      "number": 4,
+      "title": "3. Stress-test risks",
+      "body": "Task: Identify top 3 failure modes and 2 mitigations each for [IDEA]. Output: bullet list."
+    },
+    {
+      "number": 5,
+      "title": "4. Plan execution",
+      "body": "Task: Draft a 90-day plan for implementing [IDEA], with milestones and metrics. Output: timeline bullets."
+    },
+    {
+      "number": 6,
+      "title": "5. Verify with feedback",
+      "body": "Task: Prepare 3 questions to run past a reviewer; incorporate feedback into plan. Output: reviewer questions and revised plan."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Takeaway: A structured evaluation beats a single AI answer. Save this framework for clear, defendable decisions."
+    }
+  ]
+}
