@@ -1,0 +1,40 @@
+{
+  "caption": "Repetitive admin drains time and slow decisions. This carousel turns a weak, manual approach into a repeatable, AI-assisted workflow. Five prompts move you from diagnosing waste to building a reusable playbook. Which admin task will you automate first? #AIforBiz #Productivity #Automation",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Stop Repeating Admin Work",
+      "body": "Repetitive admin drains time; I will show a better workflow with five practical prompts."
+    },
+    {
+      "number": 2,
+      "title": "1. Benefit",
+      "body": "Task: diagnose admin tasks. Placeholder: [LAST_WEEK_TASK_LIST]. Output: a bullet list of top 5 time sinks with impact."
+    },
+    {
+      "number": 3,
+      "title": "2. Benefit",
+      "body": "Task: create a single standardized email/task template for repetitive messages. Placeholder: [TEMPLATE_FIELDS]. Output: a ready-to-copy template and fill-in prompts."
+    },
+    {
+      "number": 4,
+      "title": "3. Benefit",
+      "body": "Task: propose 3 automation steps using [TOOL] to push templates into tasks. Output: a list of triggers, actions, and checks."
+    },
+    {
+      "number": 5,
+      "title": "4. Benefit",
+      "body": "Task: verify a generated memo or email draft for accuracy and tone. Placeholder: [DRAFT]. Output: revised draft with flagged issues."
+    },
+    {
+      "number": 6,
+      "title": "5. Benefit",
+      "body": "Task: compile a 1-page admin playbook with a checklist and success metrics. Placeholder: [CHECKLIST_ITEMS]. Output: final checklist plus KPI examples."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use the playbook to cut admin time by 40% and improve output quality."
+    }
+  ]
+}
