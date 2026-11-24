@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts look polished but can miss context. This carousel gives a practical QA flow to verify AI outputs. Which prompt will you try first? #AIQA #Productivity #AIinBusiness",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your AI checks miss context",
+      "body": "Polished AI drafts hide gaps. Here are five prompts to verify accuracy, bias, recency, and relevance."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose gaps",
+      "body": "Task: AI draft; list missing sources and biases. Placeholder: [PASTE HERE]. Output: a structured list of gaps."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve grounding",
+      "body": "Task: Add citations, date checks, and decision criteria to draft. Placeholder: [OUTPUT WITHOUT CITED SOURCES]. Output: reformatted with sources bracketed."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply to decision",
+      "body": "Task: Apply to a live decision; summarize impact, risks, and next steps. Placeholder: [DECISION]. Output: concise verdict and plan."
+    },
+    {
+      "number": 5,
+      "title": "4. Check alignment",
+      "body": "Task: Verify draft aligns with stated business goals and metrics. Placeholder: [GOALS]. Output: alignment score 0-100 with brief justification."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Task: Turn this into a repeatable QA process; produce a checklist and schedule. Placeholder: [CHECKLIST]. Output: reusable checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use this five-prompt QA as a repeatable habit to verify AI output before acting."
+    }
+  ]
+}
