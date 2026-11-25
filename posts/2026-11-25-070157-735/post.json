@@ -1,0 +1,40 @@
+{
+  "caption": "AI drafts look polished, but facts, sources, and dates can be wrong. This seven-step prompts checklist helps you verify AI output before publishing. Save this as a quick workflow for future AI documents. Which prompt will you run first today? #AIatWork #Productivity #AIChecks #NaelBuildingBig",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your AI draft looks polished",
+      "body": "The problem: AI drafts seem complete but facts, sources, and dates often mislead. Five prompts to verify before posting."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose accuracy",
+      "body": "Prompt: Diagnose accuracy. Input AI draft. Task: extract factual claims, mark supported vs. unsupported. Output: list of claims and status."
+    },
+    {
+      "number": 3,
+      "title": "2. Verify sources",
+      "body": "Prompt: Verify sources. Input AI draft. Task: fetch each citation URL, assess credibility. Output: citations with credibility verdict."
+    },
+    {
+      "number": 4,
+      "title": "3. Check citations",
+      "body": "Prompt: Check citations. Input AI draft. Task: compare quotes with cited lines, confirm exactness. Output: quotes and match status."
+    },
+    {
+      "number": 5,
+      "title": "4. Confirm dates",
+      "body": "Prompt: Confirm dates. Input AI draft. Task: extract dates, verify against sources, flag incorrect dates. Output: date verification results."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine results",
+      "body": "Prompt: Refine results. Input AI draft. Task: produce a clean cite-ready version with verified sources and dates. Output: checklist-ready document."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Always treat AI drafts as drafts; verify facts, sources, and dates before publishing. Save this workflow and follow @naelbuildingbig."
+    }
+  ]
+}
