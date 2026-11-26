@@ -1,6 +1,7 @@
 {
   "post_id": "2026-11-26-190114-340",
-  "status": "delivery_started",
+  "status": "needs_review",
   "started_at": "2026-11-26T15:02:01.804Z",
-  "source_commit": "e3a90483dcde54e0bdb5f51045a1cd0be18773dc"
+  "source_commit": "e3a90483dcde54e0bdb5f51045a1cd0be18773dc",
+  "message": "Publishing result unconfirmed. Check Make history and Instagram before retrying."
 }
