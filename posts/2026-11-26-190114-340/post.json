@@ -1,0 +1,40 @@
+{
+  "caption": "Gut decisions feel fast, but they cost later. These five AI prompts help you vet an idea before committing. Save this workflow for future decisions. Which prompt will you try first on your current idea? #AI #Productivity #DecisionMaking #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Gut-checks miss the risks",
+      "body": "Problem: decisions by gut feel ignore risk. Five prompts to rigorously vet any idea."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose assumptions",
+      "body": "Diagnose assumptions. Task: list 3 assumptions with evidence. Placeholder: [IDEA_SUMMARY]. Output: bullet list; evaluate falsifiability."
+    },
+    {
+      "number": 3,
+      "title": "2. Compare alternatives",
+      "body": "Compare alternatives. Task: outline 2 viable options with pros/cons. Placeholder: [IDEA_SUMMARY]. Output: bullet list with verdict."
+    },
+    {
+      "number": 4,
+      "title": "3. Quantify risks",
+      "body": "Quantify risks and impact. Task: assign rough probability and impact scores for top 3 risks. Placeholder: [IDEA_DETAILS]. Output: risk matrix."
+    },
+    {
+      "number": 5,
+      "title": "4. Decision criteria",
+      "body": "Decision criteria checklist. Task: generate a 6-item checklist aligned to [GOAL]. Placeholder: [GOAL]. Output: numbered list."
+    },
+    {
+      "number": 6,
+      "title": "5. Feasibility tests",
+      "body": "Run a mini feasibility test. Task: provide 2 tests with success criteria. Placeholder: [IDEA]. Output: test plan and pass/fail criteria."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Structured prompts beat gut feel. Save this workflow to vet ideas before committing."
+    }
+  ]
+}
