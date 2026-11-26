@@ -1,0 +1,40 @@
+{
+  "caption": "AI plans can miss priorities. Use a small, repeatable checklist to ensure real prioritization. Which prompt will you start with today? #AIinBusiness #Productivity #DecisionMaking",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Weak AI plans, smarter workflow",
+      "body": "Your AI plan can misprioritize. This post gives five prompts to diagnose, improve, apply, verify, and refine planning."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Input placeholders: {goals}, {tasks}, {deadlines}. Output: ranked tasks with scores 1-10 and brief rationale."
+    },
+    {
+      "number": 3,
+      "title": "2. Clarify outcomes",
+      "body": "Task: convert each task into concrete outcomes with success criteria. Placeholder: {desired_outcomes}. Output: list of outcome statements."
+    },
+    {
+      "number": 4,
+      "title": "3. Sequence plan",
+      "body": "Task: build a 2-week sequence; include durations; placeholder: {week_constraints}. Output: Gantt-like plan with dates."
+    },
+    {
+      "number": 5,
+      "title": "4. Check risks",
+      "body": "Task: identify prioritization risks; Output: risks with mitigations; Placeholder: {risk_factors}."
+    },
+    {
+      "number": 6,
+      "title": "5. Validate constraints",
+      "body": "Task: test plan against constraints; Output: pass/fail verdict and adjustments; Placeholder: {constraints}."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Treat AI as a drafting assistant, not the final decision. Use prompts to build a validated planning workflow."
+    }
+  ]
+}
