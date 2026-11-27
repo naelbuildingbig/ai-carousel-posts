@@ -1,0 +1,40 @@
+{
+  "caption": "Is your to-do pile crowded but your day stays empty of real progress? This carousel shares a practical, repeatable workflow to plan and prune your week. Save it to reference before your next sprint. What tends to throw off your weekly plan? #AIinBusiness #Productivity #Prioritization",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Reality Check: Backlog",
+      "body": "Your backlog is overflowing but days won't stretch. Reality check: five prompts to plan and prune your week."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Diagnose priorities: Backlog: [list], Capacity: [units]. Output a ranked task list by impact/effort with due dates."
+    },
+    {
+      "number": 3,
+      "title": "2. Refine plan",
+      "body": "Refine plan: Dependencies: [list], Buffers: [hours]. Output an updated ranking with dependencies and buffer notes."
+    },
+    {
+      "number": 4,
+      "title": "3. Allocate tasks",
+      "body": "Plan allocation: Capacity: [units], Schedule: [week view]. Output a 7-day plan assigning tasks to days within capacity; flag overloads."
+    },
+    {
+      "number": 5,
+      "title": "4. Check feasibility",
+      "body": "Check feasibility: Estimate effort vs. time; Actuals: [data]. Output any risk flags and a revised plan."
+    },
+    {
+      "number": 6,
+      "title": "5. Automate reminders",
+      "body": "Automate: Reminders and updates: [tool]. Output a reusable workflow: prompts for reminders, updates, and CSV export."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "A simple, repeatable weekly prioritization reduces overwork and aligns effort with impact."
+    }
+  ]
+}
