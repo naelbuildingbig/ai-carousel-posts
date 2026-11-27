@@ -1,0 +1,40 @@
+{
+  "caption": "Reality check on AI planning: you can miss priorities even with many prompts. This carousel gives a simple 5-prompt workflow to diagnose, prioritise, map, check, and refine. Which prompt will you try first this week? #AIforProductivity #ProductivityTips #Entrepreneurship",
+  "slides": [
+    {
+      "number": 1,
+      "title": "the strongest hook.",
+      "body": "Reality check: AI planning leaks time. Five prompts fix it: diagnose gaps, prioritise impact, map a week, check feasibility, refine."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose gaps",
+      "body": "Diagnose gaps in your plan: identify 2 missing tasks and their impact. Output: bullet list of 2 items: task, impact."
+    },
+    {
+      "number": 3,
+      "title": "2. Prioritise impact",
+      "body": "Improve prioritisation: score tasks by impact and effort, then rank top 3 with recommended next action. Output: ranked list."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply to week",
+      "body": "Apply to a sample week: map top 3 tasks to daily blocks. Output: day-by-day list with task, block length, goal."
+    },
+    {
+      "number": 5,
+      "title": "4. Feasibility check",
+      "body": "Check feasibility: estimate time and blockers for each task. Output: bullet list of 3 risks with simple mitigations."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine into workflow",
+      "body": "Refine into a reusable workflow: create a simple weekly planning checklist with diagnosis, prioritisation, execution, and review steps."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Master weekly planning with AI: you decide faster, finish more, reduce firefighting. Save this for later and follow @naelbuildingbig."
+    }
+  ]
+}
