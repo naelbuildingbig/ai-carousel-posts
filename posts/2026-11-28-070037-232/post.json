@@ -1,0 +1,40 @@
+{
+  "caption": "AI can sound convincing, but its claims aren't automatically trustworthy. This carousel provides five concrete prompts to vet AI research before you act. Save it for your next briefing and try the prompts. Do you verify AI-sourced claims with citations today? #AIReview #Productivity #AIResearch",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Trust, but verify AI claims",
+      "body": "AI answers may sound right, but sources are thin. Here are five prompts to vet the research."
+    },
+    {
+      "number": 2,
+      "title": "1. Locate sources",
+      "body": "Task: identify claims without citations in the AI summary; output: list each claim and suggested source type. Placeholder: paste."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve clarity",
+      "body": "Task: rewrite with inline citations; requirement: one credible source per claim; if none, flag. Placeholder: claims list."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply to decision",
+      "body": "Task: use verified sources to draft a recommendation for the given decision scenario. Placeholder: scenario text."
+    },
+    {
+      "number": 5,
+      "title": "4. Check bias",
+      "body": "Task: list potential biases in the research and two ways to mitigate each. Placeholder: list biases."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine prompt",
+      "body": "Task: craft a longer prompt that enforces sourcing, cross-check, and a verification step. Placeholder: longer prompt."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Use these prompts to verify AI research, avoid unverified claims, and base decisions on cited sources."
+    }
+  ]
+}
