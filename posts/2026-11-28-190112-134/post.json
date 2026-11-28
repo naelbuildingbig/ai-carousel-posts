@@ -1,0 +1,40 @@
+{
+  "caption": "Most plans fail because we treat urgency as progress. This carousel gives five practical AI prompts to fix prioritisation at work. Save it for a repeatable weekly approach. What one task will you re-prioritise this week? #AI #Productivity #Prioritisation #Entrepreneurs",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Your to-do list rewards busywork",
+      "body": "Your to-do list rewards busywork over real outcomes. Here are five prompts to fix prioritisation."
+    },
+    {
+      "number": 2,
+      "title": "1. Diagnose priorities",
+      "body": "Diagnose priorities: From [TASK LIST], rank top 3 by impact. Output: a numbered list with task, impact, and recommended order."
+    },
+    {
+      "number": 3,
+      "title": "2. Improve focus",
+      "body": "Improve focus: Propose a three-item weekly plan from ranked tasks, allocating time by impact. Output: brief plan with time blocks."
+    },
+    {
+      "number": 4,
+      "title": "3. Apply plan",
+      "body": "Apply plan: Create a day-by-day schedule for a 5-day sprint, focusing on top priority task first. Output: calendar-style list."
+    },
+    {
+      "number": 5,
+      "title": "4. Check outcomes",
+      "body": "Check results: After the day, evaluate if top-priority task advanced milestone; Output: score 1-5 and blockers."
+    },
+    {
+      "number": 6,
+      "title": "5. Refine workflow",
+      "body": "Refine workflow: Turn this into a reusable weekly template with a checklist and a one-click reminder. Output: template and checklist."
+    },
+    {
+      "number": 7,
+      "title": "Takeaway",
+      "body": "Prioritise by impact, not urgency; a repeatable weekly plan keeps your best work moving forward."
+    }
+  ]
+}
